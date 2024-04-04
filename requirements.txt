@@ -1,0 +1,6 @@
+openai==0.28
+requests
+deepgram-sdk --upgrade
+streamlit
+requests 
+ffmpeg-python
