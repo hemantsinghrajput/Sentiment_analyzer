@@ -1,6 +1,4 @@
-from flask import Flask, render_template, request
 import openai
-import os
 import requests
 import json
 from deepgram import (
