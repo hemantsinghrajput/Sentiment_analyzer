@@ -1,6 +1,6 @@
 openai==0.28
 requests
-deepgram-sdk
+deepgram-sdk==3.2.3
 streamlit
 requests 
 ffmpeg-python
